@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Examples for intermediate-advanced javascript",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Almendares",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.5"
+  }
+}
